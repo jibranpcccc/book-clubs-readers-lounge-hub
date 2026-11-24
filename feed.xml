@@ -4,10 +4,17 @@
     <title>Book Clubs &amp; Deep Reading Collective</title>
     <link>https://book-clubs-readers-lounge-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 23 Nov 2026 06:45:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:32:13 GMT</lastBuildDate>
     <atom:link href="https://book-clubs-readers-lounge-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/Python Developer Community (Reddit)</title>
+      <link>https://www.reddit.com/r/Python/</link>
+      <guid isPermaLink="false">https://book-clubs-readers-lounge-hub.netlify.app/#book-clubs-deep-reading-collective-reddit-7-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 07:32:13 GMT</pubDate>
+      <description>Newly verified community added to Book Clubs &amp; Deep Reading Collective: The premier community for Python engineers, covering news, PEP proposals, open-source packages, and architecture discussions.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://book-clubs-readers-lounge-hub.netlify.app/#book-clubs-deep-reading-collective-forum-6-2026-11-23</guid>
@@ -173,13 +180,6 @@
       <link>https://discord.gg/linux</link>
       <guid isPermaLink="false">https://book-clubs-readers-lounge-hub.netlify.app/#book-clubs-readers-lounge-hub-discord-20261023-1-2026-10-25</guid>
       <pubDate>Sun, 25 Oct 2026 06:02:15 GMT</pubDate>
-      <description>Newly verified community added to Book Clubs &amp; Deep Reading Collective: Real-time support server for Linux server administration, bash scripting, systemd configurations, and package management.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Linux Users Community Discord (Discord)</title>
-      <link>https://discord.gg/linux</link>
-      <guid isPermaLink="false">https://book-clubs-readers-lounge-hub.netlify.app/#book-clubs-readers-lounge-hub-discord-20261023-1-2026-10-24</guid>
-      <pubDate>Sat, 24 Oct 2026 06:02:17 GMT</pubDate>
       <description>Newly verified community added to Book Clubs &amp; Deep Reading Collective: Real-time support server for Linux server administration, bash scripting, systemd configurations, and package management.</description>
     </item>
   </channel>
